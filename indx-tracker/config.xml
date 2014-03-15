@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="dancordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>INDX-Tracker</name>
+    <description>
+        Tracks your geolocation and asserts to INDX.
+    </description>
+    <author email="daniel@danielsmith.eu" href="https://danielsmith.eu">
+        Dr. Daniel Alexander Smith
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
